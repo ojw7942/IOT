@@ -1,0 +1,47 @@
+github 회원가입
+
+"geeksforgeeks c" 검색
+"wikidocs c" 검색
+"online c compiler" 검색
+"파인만 공부법" 검색
+
+입출력
+	출력 : printf
+	"printf prototype"
+
+상수, 변수
+	data type
+		unsigned	[signed] char 1 byte	-128~127 	0~255
+		short	2 byte	-32768~32767	0~65535
+		int	4 byte	-2147483648~2147483647
+		long	8 byte	-9223372036854775808~9223372036854775807
+		float	4 byte 	3.4*10^38
+		double 	8 byte	1.7*10^308
+		underflow	overflow
+연산자
+variable = expression
+v = 	c
+	v
+	o
+	f
+
+1. 두 수를 입력받아 산술연산의 결과를 출력하는 프로그램
+2. 두 수를 입력받아 산술연산의 결과를 출력하는 함수를 만들고 테스트하는 프로그램
+
+path
+	absolute 절대 경로
+	relational	상대경로
+	root directrory(folder)   c:\
+	.	: 자신에 대한 정보
+	.. 	: 부모에 대한 정보
+
+
+제어문
+	선택
+	반복
+	무시
+	복귀
+함수
+배열
+포인터 *
+구조체 . ->
