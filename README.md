@@ -83,3 +83,105 @@ gamma.app
 suno.com
 clova
 ```
+
+```c
+github 회원가입
+
+"geeksforgeeks c" 검색
+"wikidocs c" 검색
+"online c compiler" 검색
+"파인만 공부법" 검색
+
+입출력
+	출력 : printf
+	"printf prototype"
+
+상수, 변수
+	data type
+		unsigned	[signed] char 1 byte	-128~127 	0~255
+		short	2 byte	-32768~32767	0~65535
+		int	4 byte	-2147483648~2147483647
+		long	8 byte	-9223372036854775808~9223372036854775807
+		float	4 byte 	3.4*10^38
+		double 	8 byte	1.7*10^308
+		underflow	overflow
+연산자
+variable = expression
+v = 	c
+	v
+	o
+	f
+
+1. 두 수를 입력받아 산술연산의 결과를 출력하는 프로그램
+2. 두 수를 입력받아 산술연산의 결과를 출력하는 함수를 만들고 테스트하는 프로그램
+
+path
+	absolute 절대 경로
+	relational	상대경로
+	root directrory(folder)   c:\
+	.	: 자신에 대한 정보
+	.. 	: 부모에 대한 정보
+
+
+제어문
+	선택
+	반복
+	무시
+	복귀
+함수
+배열
+포인터 *
+구조체 . ->
+```
+
+```c
+"wikidocs c"검색
+
+상수(리터럴)
+변수 - 데이터 타입 void
+연산자 우선순위표
+	단항
+	산술
+	시프트
+	비교(관계)
+	비트
+	논리
+	삼항
+	대입 =, *=, /=, +=, -=, >>=, <<=, &=, ^=, |=
+	콤마 ,
+제어문 - 실행의 순서를 제어
+	선택 if, switch	
+	반복 for, while, do~while
+	무시 break, continue
+	복귀 return
+
+함수
+return  뒤에 있는 수식 결과의 데이터 타입 	함수이름(파라미터들){
+	함수 본체(선언문, 실행문)
+	return  수식;
+}
+
+배열 - 동일한 데이터 타입의 연속적인 기억공간
+         여러 개를 하나로 그룹화 한 것
+         요소 하나 하나를  index로 구분
+         index 는 0부터 1씩 증가하는 수
+
+	data type array_name[length]
+	int stud[10];
+
+         배열의 이름에는 배열의 시작주소가 자동으로 부여됩니다.
+
+포인터
+	변수의 주소를 다루는 것
+	포인터 변수는 주소를 담는 변수 *p
+	포인터 변수의 연산(데이터타입의 사이즈)
+	포인터 변수의 주소에 있는 내용을 다룰 수 있음 *p
+	
+구조체
+	이질적인 데이터 타입의 자료를 하나의 그룹으로
+	배열은 동일 데이터 타입의 자료를 하나의 그룹으로
+	구조체 배열을 생성
+
+
+백준, 프로그래머스
+```
